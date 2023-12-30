@@ -31,7 +31,7 @@ PRODUCT_PACKAGES += \
 # Additional binaries & libraries needed for recovery
 TARGET_RECOVERY_DEVICE_MODULES += \
     libkeymaster4
-    
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OP555BL1 \
 

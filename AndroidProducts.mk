@@ -15,6 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ivan.mk
+    $(LOCAL_DIR)/lineage_ivan.mk
 
-COMMON_LUNCH_CHOICES := omni_ivan-eng
+COMMON_LUNCH_CHOICES := lineage_ivan-eng
+
